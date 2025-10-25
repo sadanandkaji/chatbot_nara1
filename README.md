@@ -2,7 +2,9 @@ activate env
 
 select interpretor
 
-signin to neon and add project
+signin to neon and add project 
+
+connect string  and add in database.py
 
 run this in env python shell
 ->
