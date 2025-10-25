@@ -1,0 +1,8 @@
+Flask
+nltk
+numpy
+tensorflow
+pickle-mixin
+psycopg2-binary
+sqlalchemy 
+flask_sqlalchemy
